@@ -23,29 +23,58 @@
 }
 .position-parent{
     position: relative;
+<<<<<<< HEAD
     margin-right: 0px;
     width: 60%;
+=======
+    top:50px;
+    bottom:20px;
+    left:860px;
+    right:0%;
+    width: 55%;
+>>>>>>> 8b3b0e4fee2fd0568b7037dcdc2989432e203b50
     height: 700px;
 }
 .subtitle{
     position:absolute;
+<<<<<<< HEAD
     margin-top: 40%;
     margin-left: 0%;
     font-size:450%;
+=======
+    bottom:5%;
+    left:-82%;
+    font-size:500%;
+>>>>>>> 8b3b0e4fee2fd0568b7037dcdc2989432e203b50
 }
 .img{
     position:absolute;
     z-index: 2;
+<<<<<<< HEAD
     margin-left:77%;
     width: 90%;
+=======
+    width: 95%;
+>>>>>>> 8b3b0e4fee2fd0568b7037dcdc2989432e203b50
     height:auto;
 }
 .blue__box{
     position:absolute;
+<<<<<<< HEAD
+=======
+    left:-83%;
+    bottom:-10%;
+>>>>>>> 8b3b0e4fee2fd0568b7037dcdc2989432e203b50
     z-index: 1;
     margin-left: 0;
     margin-top: 53%;
     background-color: midnightblue;
+<<<<<<< HEAD
     height:25%;
     width: 120%;
 }
+=======
+    height:30%;
+    width: 120%;
+}
+>>>>>>> 8b3b0e4fee2fd0568b7037dcdc2989432e203b50
